@@ -1,10 +1,7 @@
 - Hi, I’m @justin-alleman 👋
 - I enjoy:
   - Learning Polish 🇵🇱
-  - Practicing CrossFit 🏋️‍♂️
   - Training Dogs 🐕
-  - Exploring Places 🌍
-  - Coding Daily 💻
 
 <!---
 justin-alleman/justin-alleman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
